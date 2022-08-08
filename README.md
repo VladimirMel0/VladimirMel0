@@ -1,7 +1,7 @@
 ### Olá Pessoal, tudo bem? Prazer sou o Vladimir 👋
 
-- 🔭 Hoje eu trabalho como SDR (pré-vendas)
-- 🌱 Estou estudando JavaScript|ReactJ
+- 🔭 Hoje eu trabalho como Especialista de contas
+- 🌱 Estou estudando JavaScript|ReactJ para o Front-End e Java para o Back-End
 
 <div align="center">
   <a href="https://github.com/VladimirMel0">
