@@ -1,7 +1,13 @@
 ### Olá Pessoal, tudo bem? Prazer sou o Vladimir 👋
 
-- 🔭 Hoje eu trabalho como Especialista de contas
-- 🌱 Estou estudando JavaScript|ReactJ para o Front-End e Java para o Back-End
+## Sobre Mim
+Tenho um total de 5 anos de experiência em vendas, trabalhei desde atendente de loja vendendo garantia estendida até como especialista de contas que é meu cargo atual.
+Eu sempre tive interesse pela área de desenvolvimento, sempre fui um amante de tecnologia. Comecei meus estudos no final do ano de 2021, fiz projetos de front end, como telas de login, clones de sites institucionais e crud utilizando ReactJs.
+Sempre tive curiosidade pela área de back end, que é a que tenho estudado. Estou fazendo alguns projetos com Java, já fiz uma API para firmar o meu conhecimento que você pode ver no meu GitHub, e estou desenvolvendo um sistema de login, onde fiz a Tela de cadastro no front-end e fazendo o crud,api, e comunicação com o banco de dados usando o framework spring.
+Sei que tem muita coisa que não conheço, mas sei também que corro atrás e aprendo o mais rápido possível.
+Espero poder ajudar o seu time.
+
+## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=VladimirMel0.VladimirMel0&style=flat-square&color=0088cc)
 
 <div align="center">
   <a href="https://github.com/VladimirMel0">
