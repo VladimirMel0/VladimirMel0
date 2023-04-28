@@ -4,7 +4,7 @@
 Tenho um total de 5 anos de experiência em vendas, estou em processo de transição de carreira e busco minha primeira oportunidade como desenvolvedor back-end jr Java.
 Acumulo um ano completo de estudo de Front com js vanila e ReactJs, 5 meses de estudo de back na linguagem Java, Python focado atualmente em vagas back-end.
 
-Tenho experiências com projetos pessoais usando: Python, Java, Spring boot, Spring Data, Spring Security, Spring Validation, MySQL, Git, ReactJs e atualmente estou estudando AWS.
+Tenho experiências com projetos pessoais usando: Java, Spring boot, Spring Data, Spring Security, Spring Validation, Spring webFlux, Python, MySQL, Git, ReactJs e atualmente estou estudando AWS.
 
 ## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=VladimirMel0.VladimirMel0&style=flat-square&color=0088cc)
 
